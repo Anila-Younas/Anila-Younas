@@ -1,41 +1,36 @@
-# Hi there! 👋 I'm Anila Younas
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+Computer+Scientist;C%2B%2B+Developer;Assembly+Programmer;Web+Enthusiast;CyberSecurity+Learner" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Anila+Younas;Passionate+Computer+Scientist;C%2B%2B+Developer;Assembly+Programmer;Web+Enthusiast;CyberSecurity+Learner" alt="Typing SVG" />
 </p>
 
-I am a second-year CS student specializing in C++ programming and assembly language projects. I enjoy working on data structures, algorithms, and assembly programming, along with web development. I also explore **machine learning, cybersecurity, and computer vision**.
+## 🚀 About Me
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&color=00FF00&width=800&lines=I+am+a+second-year+CS+student+specializing+in+C%2B%2B+programming+and+assembly+language+projects.+I+enjoy+working+on+data+structures%2C+algorithms%2C+and+assembly+programming%2C+along+with+web+development.+I+also+explore+machine+learning%2C+cybersecurity%2C+and+computer+vision." alt="About Me Typing" />
 
 ## 🔥 My Projects
 
 ### 🎮 Console & Game Development (C++)
-- ♟ Chess Game (C++ CLI) – A console-based chess game with move validation and standard rules.
-- 🎲 Snakes and Ladders (C++ CLI) – A two-player turn-based game with automated dice rolling.
-- 🎮 Tic-Tac-Toe (C++ CLI) – A classic two-player game with an interactive console interface.
-- 🏗 Tower of Hanoi (C++ CLI) – Stack-based Tower of Hanoi game with an interactive console UI.
-- 🏢 Cruise Management System (C++ CLI) – A management system for handling cruise bookings and schedules.
+- ♟ Chess Game (C++ CLI)
+- 🎲 Snakes and Ladders (C++ CLI)
+- 🎮 Tic-Tac-Toe (C++ CLI)
+- 🏗 Tower of Hanoi (C++ CLI)
+- 🏢 Cruise Management System (C++ CLI)
 
 ### 🖥 Assembly Language & System-Level Programming
-- 🕹 Pac-Man (Assembly Language) – A fully functional Pac-Man clone built using low-level assembly programming.
+- 🕹 Pac-Man (Assembly Language)
 
 ### 📱 Software & Web Applications
-- 📘 Leximo – English Learning App – An interactive English learning application for vocabulary improvement.
-- 🚗 Mercedes Webpage (HTML & CSS) – A simple and elegant Mercedes-Benz showcase website.
+- 📘 Leximo – English Learning App
+- 🚗 Mercedes Webpage (HTML & CSS)
 
 ## 🛠 Tech Stack
 
 ### Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00FF00?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-00FF00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FF00?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anila-Younas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anila-younas-0483ab290/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilayounas41@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Anila-Younas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anila-younas-0483ab290/)
 
 ## 💡 Always learning, always improving. 🚀
