@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Anila Younas.  
 
-🚀 **Passionate Computer Scientist | C++ Developer | Assembly & System-Level Programmer | Web Enthusiast | CyberSecurity Learner **  
+🚀 **Passionate Computer Scientist | C++ Developer | Assembly Programmer | Web Enthusiast | CyberSecurity Learner **  
 
-I am a **second-year CS student** specializing in **C++ programming, assembly language projects, and console-based applications**. I enjoy working on **data structures, algorithms, and system-level programming**, along with **web development**. I also explore ** machine learning, cybersecurity, and computer vision**.  
+I am a **second-year CS student** specializing in **C++ programming and assembly language projects**. I enjoy working on **data structures, algorithms, and system-level programming**, along with **web development**. I also explore ** machine learning, cybersecurity, and computer vision**.  
 
 ---
 
