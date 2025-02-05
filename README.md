@@ -4,7 +4,7 @@
 
 I am a **second-year CS student** specializing in **C++ programming and assembly language projects**. I enjoy working on **data structures, algorithms, and system-level programming**, along with **web development**. I also explore ** machine learning, cybersecurity, and computer vision**.  
 
----
+
 
 ## 🔥 My Projects
 ### 🎮 Console & Game Development (C++)
@@ -21,7 +21,7 @@ I am a **second-year CS student** specializing in **C++ programming and assembly
 - 📘 **Leximo – English Learning App** – An **interactive English learning application** for vocabulary improvement.  
 - 🚗 **Mercedes Webpage (HTML & CSS)** – A simple and elegant **Mercedes-Benz showcase website**.  
 
----
+
 
 ## 🛠 Tech Stack
 - **Programming Languages:**  
@@ -51,21 +51,21 @@ I am a **second-year CS student** specializing in **C++ programming and assembly
   - **Web Development**  
   - **Cybersecurity & Ethical Hacking**    
 
----
+
 
 ## 📜 Experience & Achievements
 - **🌟 Millennium Fellowship** – Worked on a social impact project addressing abuse in society.  
 - **👨‍🏫 Git Workshop Organizer** – Conducted **hands-on Git training sessions**.  
 - **💡 IBA OGDC Talent Hunt Program** – Selected for a **prestigious talent development initiative**.  
 
----
+
 
 ## 📫 Connect with Me
 - **GitHub:** https://github.com/Anila-Younas
 - **Email:** anilayounas41@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/anila-younas-0483ab290/
 
----
+
 
 🔹 **Always learning, always improving.** 🚀  
 💡 **Open to collaborations and new challenges.**  
