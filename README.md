@@ -26,6 +26,7 @@ I am a **second-year CS student** specializing in **C++ programming and assembly
 ## 🛠 Tech Stack
 - **Programming Languages:**  
   - C++
+   <img src="https://th.bing.com/th/id/R.eac155cbc9da29004e1377fe034c70be?rik=cilHPJZQcUza4A&riu=http%3a%2f%2flh3.googleusercontent.com%2f3vGlLyKkKC46G1qqiqyKf0jeOyUtiZk5NxOxeuRJOfP4aZzCob9kabZX252mUmVAHA%3dw300&ehk=XubcQM4c0DV6mEMGW8Up48QfJHpEkXXx6s5%2bUae39RY%3d&risl=&pid=ImgRaw&r=0"/>
   - Assembly Language
   - JavaScript
   - HTML
