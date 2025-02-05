@@ -25,24 +25,24 @@ I am a **second-year CS student** specializing in **C++ programming and assembly
 
 ## 🛠 Tech Stack
 - **Programming Languages:**  
-  !C++
-  !Assembly Language
-  JavaScript
-  !HTML
-  CSS
-  Java
-  Kotlin
-  Python
+  - C++
+  - Assembly Language
+  - JavaScript
+  - HTML
+  - CSS
+  - Java
+  - Kotlin
+  - Python
 
 - **Tools & Technologies:**  
-  VS Code
-  CodeBlocks
-  Visual Studio
-  Intellij IDEA
-  PyCharm
-  GCC
-  Git
-  GitHub
+  - VS Code
+  - CodeBlocks
+  - Visual Studio
+  - Intellij IDEA
+  - PyCharm
+  - GCC
+  - Git
+  - GitHub
 
 - **Expertise Areas:**  
   - **Game Development** (Pac-Man, Chess, Snakes & Ladders)  
