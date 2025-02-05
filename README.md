@@ -1,13 +1,43 @@
-<div style="background-color:black; color:#00FF00; font-family:monospace; padding:20px; border-radius:5px;">
-  <h1>Hi there! 👋 I'm Anila Younas.</h1>
-  <p>🚀 <strong>Passionate Computer Scientist | C++ Developer | Assembly Programmer | Web Enthusiast | CyberSecurity Learner</strong></p>
-  
-  <p>I am a second-year CS student specializing in C++ programming and assembly language projects. I enjoy working on data structures, algorithms, and assembly programming, along with web development.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Anila Younas - README</title>
+    <style>
+        body {
+            background-color: black;
+            color: #00FF00;
+            font-family: 'Courier New', monospace;
+            line-height: 1.6;
+            padding: 20px;
+            white-space: pre-wrap;
+        }
+        .cursor {
+            animation: blink 0.7s infinite;
+        }
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+        .glitch {
+            animation: glitch 0.3s infinite alternate;
+        }
+        @keyframes glitch {
+            0% { text-shadow: 2px 0 #00FF00; }
+            100% { text-shadow: -2px 0 #00FF00; }
+        }
+    </style>
+</head>
+<body>
+<div id="content"></div>
+<span class="cursor">|</span>
 
-  <pre id="typewriter"></pre>
+<script>
+    const content = `Hi there! 👋 I'm Anila Younas.
+🚀 **Passionate Computer Scientist | C++ Developer | Assembly Programmer | Web Enthusiast | CyberSecurity Learner**
 
-  <script>
-    let text = `
+I am a second-year CS student specializing in C++ programming and assembly language projects. I enjoy working on data structures, algorithms, and assembly programming, along with web development. I also explore **machine learning, cybersecurity, and computer vision**.
+
 🔥 My Projects
 🎮 Console & Game Development (C++)
 ♟ Chess Game (C++ CLI) – A console-based chess game with move validation and standard rules.
@@ -23,6 +53,20 @@
 📘 Leximo – English Learning App – An interactive English learning application for vocabulary improvement.
 🚗 Mercedes Webpage (HTML & CSS) – A simple and elegant Mercedes-Benz showcase website.
 
+🛠 Tech Stack
+Programming Languages:
+C++, Assembly Language, JavaScript, HTML, CSS, Java, Kotlin, Python
+
+Tools & Technologies:
+VS Code, CodeBlocks, Visual Studio, Intellij IDEA, PyCharm, GCC, Git, GitHub
+
+Expertise Areas:
+Game Development (Pac-Man, Chess, Snakes & Ladders)
+Assembly Programming
+Data Structures & Algorithms
+Web Development
+Cybersecurity & Ethical Hacking
+
 📜 Experience & Achievements
 🌟 Millennium Fellowship – Worked on a social impact project addressing abuse in society.
 👨‍🏫 Git Workshop Organizer – Conducted hands-on Git training sessions.
@@ -32,19 +76,26 @@
 GitHub: https://github.com/Anila-Younas
 Email: anilayounas41@gmail.com
 LinkedIn: https://www.linkedin.com/in/anila-younas-0483ab290/
-🔹 Always learning, always improving. 🚀
-💡 Open to collaborations and new challenges.
-    `;
 
+🔹 Always learning, always improving. 🚀
+💡 Open to collaborations and new challenges.`;
+
+    const contentDiv = document.getElementById('content');
+    const cursor = document.querySelector('.cursor');
     let index = 0;
-    function typeEffect() {
-      if (index < text.length) {
-        document.getElementById("typewriter").innerHTML += text[index];
-        index++;
-        setTimeout(typeEffect, Math.random() * 100); 
-      }
+
+    function typeWriter() {
+        if (index < content.length) {
+            contentDiv.innerHTML += content.charAt(index);
+            index++;
+            setTimeout(typeWriter, Math.random() * 50 + 20);
+        } else {
+            cursor.style.display = 'none';
+            contentDiv.classList.add('glitch');
+        }
     }
 
-    document.addEventListener("DOMContentLoaded", typeEffect);
-  </script>
-</div>
+    typeWriter();
+</script>
+</body>
+</html>
