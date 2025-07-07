@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
   
 </div>
 
@@ -200,7 +200,7 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines="The+best+way+to+predict+the+future+is+to+code+it.")](https://git.io/typing-svg)
   
-  <img src="https://komarev.com/ghpvc/?username=Anila-Younas&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Anila-Younas&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
   
 </div>
 
