@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Security+Researcher;Algorithm+Enthusiast;System+Programming+Expert;Backend+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Security+Enthusiast;System+Programming+Expert;Backend+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,8 +21,7 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 ## 🚀 What I'm Passionate About
 
 🎯 **Backend Development** • Building robust APIs and scalable systems that power amazing user experiences  
-🔐 **Security Research** • Exploring vulnerabilities and crafting proof-of-concepts to make systems safer  
-⚡ **Algorithm Optimization** • Creating efficient solutions for complex computational problems  
+🔐 **Security Research** • Exploring vulnerabilities and crafting proof-of-concepts to make systems safer    
 🌐 **Full-Stack Solutions** • End-to-end development from database design to interactive frontends  
 🖥️ **System Programming** • Low-level programming and assembly language wizardry  
 📊 **Data Visualization** • Transforming complex data into intuitive, interactive experiences
