@@ -1,209 +1,69 @@
 # Hi there! 👋 I'm Anila Younas
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Security+Researcher;Algorithm+Enthusiast;System+Programming+Expert;Backend+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+Computer+Scientist;C%2B%2B+Developer;Assembly+Programmer;Web+Enthusiast;CyberSecurity+Learner" alt="Typing SVG" />
   </a>
 </p>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
-  
-</div>
+I am a second-year CS student specializing in C++ programming and assembly language projects. I enjoy working on data structures, algorithms, and assembly programming, along with web development. I also explore **machine learning, cybersecurity, and computer vision**.
 
-I'm a passionate **Computer Science student** at Namal University, specializing in **backend development**, **security research**, and **system-level programming**. I love solving complex problems through elegant code and building applications that make a real impact.
+## 🔥 My Projects
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+### 🎮 Console & Game Development (C++)
+- ♟ Chess Game (C++ CLI) – A console-based chess game with move validation and standard rules.
+- 🎲 Snakes and Ladders (C++ CLI) – A two-player turn-based game with automated dice rolling.
+- 🎮 Tic-Tac-Toe (C++ CLI) – A classic two-player game with an interactive console interface.
+- 🏗 Tower of Hanoi (C++ CLI) – Stack-based Tower of Hanoi game with an interactive console UI.
+- 🏢 Cruise Management System (C++ CLI) – A management system for handling cruise bookings and schedules.
 
-## 🚀 What I'm Passionate About
+### 🖥 Assembly Language & System-Level Programming
+- 🕹 Pac-Man (Assembly Language) – A fully functional Pac-Man clone built using low-level assembly programming.
 
-🎯 **Backend Development** • Building robust APIs and scalable systems that power amazing user experiences  
-🔐 **Security Research** • Exploring vulnerabilities and crafting proof-of-concepts to make systems safer  
-⚡ **Algorithm Optimization** • Creating efficient solutions for complex computational problems  
-🌐 **Full-Stack Solutions** • End-to-end development from database design to interactive frontends  
-🖥️ **System Programming** • Low-level programming and assembly language wizardry  
-📊 **Data Visualization** • Transforming complex data into intuitive, interactive experiences
+### 📱 Software & Web Applications
+- 📘 Leximo – English Learning App – An interactive English learning application for vocabulary improvement.
+- 🚗 Mercedes Webpage (HTML & CSS) – A simple and elegant Mercedes-Benz showcase website.
 
-## 🔥 Featured Projects
+## 🛠 Tech Stack
 
-<details>
-<summary>🌐 <b>Web Development & Full-Stack Solutions</b></summary>
-
-### 🎯 SustainX SDG Database
-**Tech:** MySQL, Django, React, OAuth 2.0  
-🚀 **Impact:** Admin-controlled database for UN Sustainable Development Goals  
-✨ **Features:** Advanced search/filtering, data visualization, secure authentication  
-
-### 📊 Dual Pivot QuickSort Simulation  
-**Tech:** JavaScript, HTML5, CSS3  
-🚀 **Impact:** Interactive algorithm learning platform  
-✨ **Features:** Step-by-step visualization, real-time controls, responsive design with dark/light modes  
-
-### 🚗 Mercedes Showcase Website
-**Tech:** HTML5, CSS3, JavaScript  
-🚀 **Impact:** Elegant automotive showcase platform  
-✨ **Features:** Responsive design, interactive galleries, smooth animations  
-
-</details>
-
-<details>
-<summary>🔐 <b>Security Research & Ethical Hacking</b></summary>
-
-### 🛡️ Windows Shutdown Exploit (Proof of Concept)
-**Tech:** C, Assembly, Low-level System Calls  
-🚀 **Impact:** Critical security vulnerability research  
-✨ **Features:** Safe PoC demonstration, reverse engineering, security mitigation proposals  
-
-### 🔓 Self-Modifying CTF Payload
-**Tech:** Python, C, x86 Assembly  
-🚀 **Impact:** Advanced exploitation technique demonstration  
-✨ **Features:** XOR encryption, dynamic code modification, runtime decryption  
-
-</details>
-
-<details>
-<summary>💻 <b>Desktop Applications & System Programming</b></summary>
-
-### 📘 Leximo – English Learning Platform
-**Tech:** C++, Advanced OOP  
-🚀 **Impact:** Interactive vocabulary improvement system  
-✨ **Features:** Progress tracking, pronunciation guides, adaptive quizzes  
-
-### 🏢 Cruise Management System
-**Tech:** C++, Data Structures  
-🚀 **Impact:** Enterprise-level booking management  
-✨ **Features:** Passenger management, schedule optimization, data validation  
-
-### 🕹️ Pac-Man Clone
-**Tech:** Assembly Language, Memory Optimization  
-🚀 **Impact:** Performance-critical game development  
-✨ **Features:** Low-level optimization, AI enemy behavior, real-time rendering  
-
-### ♟️ Chess Engine
-**Tech:** C++, Algorithm Design  
-🚀 **Impact:** Strategic game AI implementation  
-✨ **Features:** Move validation, game state management, interactive console UI  
-
-</details>
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Programming Languages
+### Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🌐 Web Technologies
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
-
-### ⚙️ System & Hardware
-![Assembly](https://img.shields.io/badge/x86_Assembly-525252?style=for-the-badge&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🔧 Development Tools
+### Development Environments & Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![CodeBlocks](https://img.shields.io/badge/CodeBlocks-A22846?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-</div>
+### Operating Systems & Virtualization
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+### Expertise Areas
+- Game Development (Pac-Man, Chess, Snakes & Ladders)
+- Assembly Programming
+- Data Structures & Algorithms
+- Web Development
+- Cybersecurity & Ethical Hacking
 
-## 🏆 Achievements & Leadership
+## 📜 Experience & Achievements
+- 🌟 Millennium Fellowship – Worked on a social impact project addressing abuse in society.
+- 👨‍🏫 Git Workshop Organizer – Conducted hands-on Git training sessions.
+- 💡 IBA OGDC Talent Hunt Program – Selected for a prestigious talent development initiative.
 
-<div align="center">
-
-### 🌟 Professional Impact
-**Millennium Fellow** | UN Academic Impact & Millennium Campus Network (2024)  
-*Leading social change through "Breaking Silence: Protecting Women and Children" campaign*
-
-**Co-Head, Blood Wing** | Namal Society for Social Impact (2023-2024)  
-*Organized life-saving blood drives and emergency response training*
-
-### 🏅 Competition Excellence
-🥉 **3rd Place** – Namal Business Idea Competition (2023)  
-🥇 **1st Place** – Namal Mud Mela (2023)  
-🥈 **Runner Up** – Talent Test, Punjab College  
-
-### 📜 Certifications
-🔹 **Google AI Essentials** Certified  
-🔹 **Cybersecurity Professional Certificate** (In Progress)  
-🔹 **IBA OGDCL Talent Hunt Program** Graduate
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anila-Younas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anila-Younas&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anila-Younas&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anila-Younas&theme=radical" alt="GitHub Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anila-Younas&theme=redical&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anila-Younas&theme=radical" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anila-Younas&theme=radical" alt="Top Languages by Commits"/>
-</div>
-
-## 🎯 What's Next?
-
-🔹 **Current Focus:** Enterprise Backend Development & Advanced Security Research  
-🔹 **Learning:** Cloud Architecture • DevOps Practices • Advanced Algorithms  
-🔹 **Goals:** Contributing to Open Source • Building Scalable Systems  
-🔹 **Philosophy:** *"Code with purpose, learn with passion, build with impact"*
-
-## 🌐 Let's Connect & Collaborate!
-
-<div align="center">
-
+## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anila-Younas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anila-younas-0483ab290/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilayounas41@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines="The+best+way+to+predict+the+future+is+to+code+it.")](https://git.io/typing-svg)
-  
-  <img src="https://komarev.com/ghpvc/?username=Anila-Younas&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-  
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## 💡 Always learning, always improving. 🚀
