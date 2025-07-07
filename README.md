@@ -20,34 +20,16 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 
 ## 🚀 What I'm Passionate About
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🎯 Backend Development
-Building robust APIs and scalable systems that power amazing user experiences.
+🎯 **Backend Development** • Building robust APIs and scalable systems that power amazing user experiences  
+🔐 **Security Research** • Exploring vulnerabilities and crafting proof-of-concepts to make systems safer  
+⚡ **Algorithm Optimization** • Creating efficient solutions for complex computational problems  
+🌐 **Full-Stack Solutions** • End-to-end development from database design to interactive frontends  
+🖥️ **System Programming** • Low-level programming and assembly language wizardry  
+📊 **Data Visualization** • Transforming complex data into intuitive, interactive experiences  
 
-### 🔐 Security Research  
-Exploring vulnerabilities and crafting proof-of-concepts to make systems safer.
-
-### ⚡ Algorithm Optimization
-Creating efficient solutions for complex computational problems.
-
-</td>
-<td width="50%">
-
-### 🌐 Full-Stack Solutions
-End-to-end development from database design to interactive frontends.
-
-### 🖥️ System Programming
-Low-level programming and assembly language wizardry.
-
-### 📊 Data Visualization
-Transforming complex data into intuitive, interactive experiences.
-
-</td>
-</tr>
-</table>
+</div>
 
 ## 🔥 Featured Projects
 
@@ -194,14 +176,10 @@ Transforming complex data into intuitive, interactive experiences.
 
 <div align="center">
 
-```javascript
-const anila = {
-    currentFocus: ["Enterprise Backend Development", "Advanced Security Research"],
-    learning: ["Cloud Architecture", "DevOps Practices", "Advanced Algorithms"],
-    goals: ["Contributing to Open Source", "Building Scalable Systems"],
-    philosophy: "Code with purpose, learn with passion, build with impact"
-};
-```
+🔹 **Current Focus:** Enterprise Backend Development & Advanced Security Research  
+🔹 **Learning:** Cloud Architecture • DevOps Practices • Advanced Algorithms  
+🔹 **Goals:** Contributing to Open Source • Building Scalable Systems  
+🔹 **Philosophy:** *"Code with purpose, learn with passion, build with impact"*  
 
 </div>
 
