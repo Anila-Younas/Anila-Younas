@@ -20,16 +20,12 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 
 ## 🚀 What I'm Passionate About
 
-<div align="center">
-
 🎯 **Backend Development** • Building robust APIs and scalable systems that power amazing user experiences  
 🔐 **Security Research** • Exploring vulnerabilities and crafting proof-of-concepts to make systems safer  
 ⚡ **Algorithm Optimization** • Creating efficient solutions for complex computational problems  
 🌐 **Full-Stack Solutions** • End-to-end development from database design to interactive frontends  
 🖥️ **System Programming** • Low-level programming and assembly language wizardry  
-📊 **Data Visualization** • Transforming complex data into intuitive, interactive experiences  
-
-</div>
+📊 **Data Visualization** • Transforming complex data into intuitive, interactive experiences
 
 ## 🔥 Featured Projects
 
@@ -169,19 +165,19 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 </div>
 
 <div align="center">
+  <img src="https://github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anila-Younas&theme=redical&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ## 🎯 What's Next?
 
-<div align="center">
-
 🔹 **Current Focus:** Enterprise Backend Development & Advanced Security Research  
 🔹 **Learning:** Cloud Architecture • DevOps Practices • Advanced Algorithms  
 🔹 **Goals:** Contributing to Open Source • Building Scalable Systems  
-🔹 **Philosophy:** *"Code with purpose, learn with passion, build with impact"*  
-
-</div>
+🔹 **Philosophy:** *"Code with purpose, learn with passion, build with impact"*
 
 ## 🌐 Let's Connect & Collaborate!
 
