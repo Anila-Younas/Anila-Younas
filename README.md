@@ -131,7 +131,7 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 
 ## 🏆 Achievements & Leadership
 
-<div align="center">
+<div align="left">
 
 ### 🌟 Professional Impact
 **Millennium Fellow** | UN Academic Impact & Millennium Campus Network (2024)  
@@ -146,9 +146,9 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 🥈 **Runner Up** – Talent Test, Punjab College  
 
 ### 📜 Certifications
-🔹 **Google AI Essentials** Certified  
-🔹 **Cybersecurity Professional Certificate** (In Progress)  
-🔹 **IBA OGDCL Talent Hunt Program** Graduate
+ **Google AI Essentials** Certified  
+ **Cybersecurity Professional Certificate** (In Progress)  
+ **IBA OGDCL Talent Hunt Program** Graduate
 
 </div>
 
