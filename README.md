@@ -164,10 +164,6 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anila-Younas&theme=redical&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anila-Younas&theme=radical" alt="Top Languages by Repo"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anila-Younas&theme=radical" alt="Top Languages by Commits"/>
 </div>
