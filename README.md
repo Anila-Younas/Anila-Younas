@@ -20,79 +20,79 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 
 ## 🚀 What I'm Passionate About
 
-🎯 **Backend Development** • Building robust APIs and scalable systems that power amazing user experiences  
-🔐 **Security Research** • Exploring vulnerabilities and crafting proof-of-concepts to make systems safer    
-🌐 **Full-Stack Solutions** • End-to-end development from database design to interactive frontends  
-🖥️ **System Programming** • Low-level programming and assembly language wizardry  
-📊 **Data Visualization** • Transforming complex data into intuitive, interactive experiences
+**Backend Development** • Building robust APIs and scalable systems that power amazing user experiences  
+**Security Research** • Exploring vulnerabilities and crafting proof-of-concepts to make systems safer    
+**Full-Stack Solutions** • End-to-end development from database design to interactive frontends  
+**System Programming** • Low-level programming and assembly language wizardry  
+**Data Visualization** • Transforming complex data into intuitive, interactive experiences
 
 ## 🔥 Featured Projects
 
 <details>
-<summary>🌐 <b>Web Development & Full-Stack Solutions</b></summary>
+<summary><b>Web Development & Full-Stack Solutions</b></summary>
 
-### 🎯 SustainX SDG Database
+###  SustainX SDG Database
 **Tech:** MySQL, Django, React, OAuth 2.0  
-🚀 **Impact:** Admin-controlled database for UN Sustainable Development Goals  
-✨ **Features:** Advanced search/filtering, data visualization, secure authentication  
+**Impact:** Admin-controlled database for UN Sustainable Development Goals  
+**Features:** Advanced search/filtering, data visualization, secure authentication  
 
-### 📊 Dual Pivot QuickSort Simulation  
+###  Dual Pivot QuickSort Simulation  
 **Tech:** JavaScript, HTML5, CSS3  
-🚀 **Impact:** Interactive algorithm learning platform  
-✨ **Features:** Step-by-step visualization, real-time controls, responsive design with dark/light modes  
+ **Impact:** Interactive algorithm learning platform  
+ **Features:** Step-by-step visualization, real-time controls, responsive design with dark/light modes  
 
-### 🚗 Mercedes Showcase Website
+###  Mercedes Showcase Website
 **Tech:** HTML5, CSS3, JavaScript  
-🚀 **Impact:** Elegant automotive showcase platform  
-✨ **Features:** Responsive design, interactive galleries, smooth animations  
+**Impact:** Elegant automotive showcase platform  
+**Features:** Responsive design, interactive galleries, smooth animations  
 
 </details>
 
 <details>
-<summary>🔐 <b>Security Research & Ethical Hacking</b></summary>
+<summary> <b>Security Research & Ethical Hacking</b></summary>
 
-### 🛡️ Windows Shutdown Exploit (Proof of Concept)
+###  Windows Shutdown Exploit (Proof of Concept)
 **Tech:** C, Assembly, Low-level System Calls  
-🚀 **Impact:** Critical security vulnerability research  
-✨ **Features:** Safe PoC demonstration, reverse engineering, security mitigation proposals  
+ **Impact:** Critical security vulnerability research  
+ **Features:** Safe PoC demonstration, reverse engineering, security mitigation proposals  
 
-### 🔓 Self-Modifying CTF Payload
+###  Self-Modifying CTF Payload
 **Tech:** Python, C, x86 Assembly  
-🚀 **Impact:** Advanced exploitation technique demonstration  
-✨ **Features:** XOR encryption, dynamic code modification, runtime decryption  
+ **Impact:** Advanced exploitation technique demonstration  
+ **Features:** XOR encryption, dynamic code modification, runtime decryption  
 
 </details>
 
 <details>
 <summary>💻 <b>Desktop Applications & System Programming</b></summary>
 
-### 📘 Leximo – English Learning Platform
+###  Leximo – English Learning Platform
 **Tech:** C++, Advanced OOP  
-🚀 **Impact:** Interactive vocabulary improvement system  
-✨ **Features:** Progress tracking, pronunciation guides, adaptive quizzes  
+ **Impact:** Interactive vocabulary improvement system  
+ **Features:** Progress tracking, pronunciation guides, adaptive quizzes  
 
-### 🏢 Cruise Management System
+###  Cruise Management System
 **Tech:** C++, Data Structures  
-🚀 **Impact:** Enterprise-level booking management  
-✨ **Features:** Passenger management, schedule optimization, data validation  
+ **Impact:** Enterprise-level booking management  
+ **Features:** Passenger management, schedule optimization, data validation  
 
-### 🕹️ Pac-Man Clone
+###  Pac-Man Clone
 **Tech:** Assembly Language, Memory Optimization  
-🚀 **Impact:** Performance-critical game development  
-✨ **Features:** Low-level optimization, AI enemy behavior, real-time rendering  
+ **Impact:** Performance-critical game development  
+ **Features:** Low-level optimization, AI enemy behavior, real-time rendering  
 
 ### ♟️ Chess Engine
 **Tech:** C++, Algorithm Design  
-🚀 **Impact:** Strategic game AI implementation  
-✨ **Features:** Move validation, game state management, interactive console UI  
+ **Impact:** Strategic game AI implementation  
+ **Features:** Move validation, game state management, interactive console UI  
 
 </details>
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
+###  Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -100,24 +100,24 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🌐 Web Technologies
+###  Web Technologies
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Databases & Backend
+###  Databases & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
 
-### ⚙️ System & Hardware
+###  System & Hardware
 ![Assembly](https://img.shields.io/badge/x86_Assembly-525252?style=for-the-badge&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🔧 Development Tools
+###  Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
