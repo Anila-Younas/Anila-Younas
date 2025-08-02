@@ -81,7 +81,7 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
  **Impact:** Performance-critical game development  
  **Features:** Low-level optimization, AI enemy behavior, real-time rendering  
 
-### ♟️ Chess Engine
+### Chess Engine
 **Tech:** C++, Algorithm Design  
  **Impact:** Strategic game AI implementation  
  **Features:** Move validation, game state management, interactive console UI  
@@ -141,9 +141,9 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 *Organized life-saving blood drives and emergency response training*
 
 ### 🏅 Competition Excellence
-🥉 **3rd Place** – Namal Business Idea Competition (2023)  
-🥇 **1st Place** – Namal Mud Mela (2023)  
-🥈 **Runner Up** – Talent Test, Punjab College  
+**3rd Place** – Namal Business Idea Competition (2023)  
+ **1st Place** – Namal Mud Mela (2023)  
+ **Runner Up** – Talent Test, Punjab College  
 
 ### 📜 Certifications
  **Google AI Essentials** Certified  
@@ -170,10 +170,10 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 
 ## 🎯 What's Next?
 
-🔹 **Current Focus:** Enterprise Backend Development & Advanced Security Research  
-🔹 **Learning:** Cloud Architecture • DevOps Practices • Advanced Algorithms  
-🔹 **Goals:** Contributing to Open Source • Building Scalable Systems  
-🔹 **Philosophy:** *"Code with purpose, learn with passion, build with impact"*
+**Current Focus:** Enterprise Backend Development & Advanced Security Research  
+**Learning:** Cloud Architecture • DevOps Practices • Advanced Algorithms  
+**Goals:** Contributing to Open Source • Building Scalable Systems  
+**Philosophy:** *"Code with purpose, learn with passion, build with impact"*
 
 ## 🌐 Let's Connect & Collaborate!
 
