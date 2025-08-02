@@ -64,7 +64,7 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 </details>
 
 <details>
-<summary>💻 <b>Desktop Applications & System Programming</b></summary>
+<summary><b>Desktop Applications & System Programming</b></summary>
 
 ###  Leximo – English Learning Platform
 **Tech:** C++, Advanced OOP  
