@@ -18,7 +18,7 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 🚀 What I'm Passionate About
+## What I'm Passionate About
 
 **Backend Development** • Building robust APIs and scalable systems that power amazing user experiences  
 **Security Research** • Exploring vulnerabilities and crafting proof-of-concepts to make systems safer    
@@ -26,7 +26,7 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
 **System Programming** • Low-level programming and assembly language wizardry  
 **Data Visualization** • Transforming complex data into intuitive, interactive experiences
 
-## 🔥 Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>Web Development & Full-Stack Solutions</b></summary>
@@ -129,30 +129,30 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 🏆 Achievements & Leadership
+## Achievements & Leadership
 
 <div align="left">
 
-### 🌟 Professional Impact
+### Professional Impact
 **Millennium Fellow** | UN Academic Impact & Millennium Campus Network (2024)  
 *Leading social change through "Breaking Silence: Protecting Women and Children" campaign*
 
 **Co-Head, Blood Wing** | Namal Society for Social Impact (2023-2024)  
 *Organized life-saving blood drives and emergency response training*
 
-### 🏅 Competition Excellence
+### Competition Excellence
 **3rd Place** – Namal Business Idea Competition (2023)  
  **1st Place** – Namal Mud Mela (2023)  
  **Runner Up** – Talent Test, Punjab College  
 
-### 📜 Certifications
+### Certifications
  **Google AI Essentials** Certified  
  **Cybersecurity Professional Certificate** (In Progress)  
  **IBA OGDCL Talent Hunt Program** Graduate
 
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anila-Younas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -168,14 +168,14 @@ I'm a passionate **Computer Science student** at Namal University, specializing 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anila-Younas&theme=radical" alt="Top Languages by Commits"/>
 </div>
 
-## 🎯 What's Next?
+## What's Next?
 
 **Current Focus:** Enterprise Backend Development & Advanced Security Research  
 **Learning:** Cloud Architecture • DevOps Practices • Advanced Algorithms  
 **Goals:** Contributing to Open Source • Building Scalable Systems  
 **Philosophy:** *"Code with purpose, learn with passion, build with impact"*
 
-## 🌐 Let's Connect & Collaborate!
+## Let's Connect & Collaborate!
 
 <div align="center">
 
