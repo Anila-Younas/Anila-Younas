@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Android+Developer;AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Android+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Shipping+Real+Products%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Developing+Real+Products%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## Hi, I am Anila Younas
 
-I am a Computer Science undergraduate at Namal University who builds and ships real software — not just coursework. My work spans full-stack web development, Android applications, and AI-integrated tools, all deployed and actively used by real communities.
+I am a Computer Science undergraduate at Namal University who builds and ships real software. My work spans full-stack web development, Android applications, and AI-integrated tools, all deployed and actively used by real communities.
 
 Currently serving as a **Teaching Assistant** for AI, Machine Learning, and Discrete Structures at Namal, and leading development coordination for the Open-Source Society's official platform.
 
