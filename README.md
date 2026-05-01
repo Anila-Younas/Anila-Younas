@@ -60,7 +60,7 @@ Production-grade Android inventory management app. Barcode scanning for item ent
 
 ---
 
-### DSA Visualizer — Dual Pivot Quicksort
+### DSA Visualizer — Dual Pivot Quicksort [Live](https://dual-pivot-quick-sort.netlify.app/)
 **Stack:** JavaScript · HTML · CSS
 
 Interactive algorithm teaching tool with step-by-step animation controls, real-time bar graph rendering, and dark/light mode. Adopted as a supplementary learning resource in the Data Structures and Algorithms course at Namal University.
