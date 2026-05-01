@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Android+Developer;[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Android+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Developing+Real+Products%2C+One+Commit+at+a+Time)](https[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Developing+Real+Products%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## Hi, I am Anila Younas
 
-I am a Computer Science undergraduate at Namal University who builds and ships real software. My work spans full-stack web development, Android applications, and AI-integrated tools, all deployed [...]
+I am a Computer Science undergraduate at Namal University who builds and ships real software. My work spans full-stack web development, Android applications, and AI-integrated tools, all deployed and actively used by real communities.
 
 Currently serving as a **Teaching Assistant** for AI, Machine Learning, and Discrete Structures at Namal, and leading development coordination for the Open-Source Society's official platform.
 
@@ -35,35 +35,35 @@ Actively seeking a **software engineering internship** where I can contribute to
 ### Cognivox — AI-Powered Lecture Assistant
 **Stack:** TypeScript · Gemini API · Knowledge Graphs · Speech-to-Text
 
-Real-time learning tool that converts spoken lectures into structured knowledge graphs through live speech-to-text. Eliminates manual notetaking entirely — lecture audio becomes a queryable, vis[...]
+Real-time learning tool that converts spoken lectures into structured knowledge graphs through live speech-to-text. Eliminates manual notetaking entirely — lecture audio becomes a queryable, visual knowledge structure. Includes multi-key API management and an interactive TypeScript frontend.
 
 ---
 
 ### SustainX — UN SDG Data Platform · [Live](https://sustainx-live.netlify.app)
 **Stack:** Django REST Framework · React · MySQL · OAuth 2.0
 
-Admin-controlled database system for tracking UN Sustainable Development Goals. Advanced search and filtering, data visualization dashboards, and OAuth 2.0 secured authentication. Fully deployed a[...]
+Admin-controlled database system for tracking UN Sustainable Development Goals. Advanced search and filtering, data visualization dashboards, and OAuth 2.0 secured authentication. Fully deployed and live.
 
 ---
 
 ### Open-Source Society Website · [Live](https://open-source-society.netlify.app)
 **Stack:** React · TypeScript · Node.js · REST APIs
 
-Architected and shipped the official OSS website from scratch for Namal University's Open-Source Society. Modular React component architecture, TypeScript type safety, and a Node.js backend servin[...]
+Architected and shipped the official OSS website from scratch for Namal University's Open-Source Society. Modular React component architecture, TypeScript type safety, and a Node.js backend serving an active student community.
 
 ---
 
 ### Smart Storage — Android Inventory App
 **Stack:** Kotlin · Jetpack Compose · Room DB · Barcode Scanning
 
-Production-grade Android inventory management app. Barcode scanning for item entry, Room DB for fully offline persistence, item categorization, and usage history. Built entirely in declarative Jet[...]
+Production-grade Android inventory management app. Barcode scanning for item entry, Room DB for fully offline persistence, item categorization, and usage history. Built entirely in declarative Jetpack Compose with zero external UI dependencies.
 
 ---
 
 ### DSA Visualizer — Dual Pivot Quicksort
 **Stack:** JavaScript · HTML · CSS
 
-Interactive algorithm teaching tool with step-by-step animation controls, real-time bar graph rendering, and dark/light mode. Adopted as a supplementary learning resource in the Data Structures an[...]
+Interactive algorithm teaching tool with step-by-step animation controls, real-time bar graph rendering, and dark/light mode. Adopted as a supplementary learning resource in the Data Structures and Algorithms course at Namal University.
 
 ---
 
@@ -163,7 +163,7 @@ Supporting 30+ students across three undergraduate courses; involved in FYP mile
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%22The+best+way+to+predict+the+future+is+to+code+it.%2[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%22The+best+way+to+predict+the+future+is+to+code+it.%22)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=Anila-Younas&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/Anila-Younas)
 
